@@ -1,0 +1,5 @@
+train  = train.txt
+valid  = val.txt
+names = data/mydata.names
+backup = backup
+gpus  = 0,1,2,3

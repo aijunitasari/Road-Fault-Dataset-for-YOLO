@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelimgdata</folder>
+	<filename>picroadfault_raw_1194.jpg</filename>
+	<path>C:\YOLO-v3\datasets\labelimgdata\picroadfault_raw_1194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3549</width>
+		<height>2070</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>751</xmin>
+			<ymin>695</ymin>
+			<xmax>2833</xmax>
+			<ymax>1766</ymax>
+		</bndbox>
+	</object>
+</annotation>

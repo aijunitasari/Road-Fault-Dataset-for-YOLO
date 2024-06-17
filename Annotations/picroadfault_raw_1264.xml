@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelimgdata</folder>
+	<filename>picroadfault_raw_1264.jpg</filename>
+	<path>C:\YOLO-v3\datasets\labelimgdata\picroadfault_raw_1264.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aligator</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>82</ymin>
+			<xmax>227</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

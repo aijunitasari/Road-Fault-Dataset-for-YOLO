@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelimgdata</folder>
+	<filename>picroadfault_raw_1103.jpg</filename>
+	<path>C:\YOLO-v3\datasets\labelimgdata\picroadfault_raw_1103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3200</width>
+		<height>1680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2146</xmin>
+			<ymin>256</ymin>
+			<xmax>3081</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>
